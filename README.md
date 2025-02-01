@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhfnnn&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
+<div width='100' align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzbTVqbGdjMXBpejNxaDB2MTN0YXh0MmtsdmlpcWQyaWpqcnlwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ed7RrrCi4r7h5NoQI2/giphy.gif"  />
 </div>
 
